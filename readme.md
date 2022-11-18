@@ -2,9 +2,9 @@
 
 <br>
 
-I'm a self-taught passionate Web | Game developer from Belgium
+I'm a self-taught passionate Web | Game developer from Belgium !
 
-**About me**
+**→ About me**
 
 - 💼 Studying at UCL in Belgium (Bachelor CS)
 
@@ -16,7 +16,8 @@ I'm a self-taught passionate Web | Game developer from Belgium
 <br>
 <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" alt="PHP" src="https://yasanacademy.ir/wp-content/uploads/2020/01/gamemaker.png"></code>
+<code><img height="50" alt="GM" src="https://yasanacademy.ir/wp-content/uploads/2020/01/gamemaker.png"></code>
+<code><img height="50" alt="LC" src="https://dl2.macupdate.com/images/icons256/7149.png?d=1500329343"></code>
 <br>
 <br>
 Learning
