@@ -10,7 +10,7 @@ I'm a self-taught passionate Web | Game developer from Belgium !
 
 - 📈 Built <a href="https://thespattt.itch.io/amazing" target="_blank">A-Maze-Ing<a>, Orbit Solar and more :D
 
-- ❤️ I love writing lines in many languages, and building imagin new games/ideas
+- ❤️ I love writing lines in many languages, and building or imagin new games/ideas
 
 - 💬 Do not hesitate to ask me something <a href="https://github.com/SuperSpatule" target="_blank">[here]</a>
 <br>
