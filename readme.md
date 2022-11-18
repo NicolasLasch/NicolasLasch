@@ -8,11 +8,11 @@ I'm a self-taught passionate Web | Game developer from Belgium !
 
 - 💼 Studying at UCL in Belgium (Bachelor CS)
 
-- 📈 Built <a href="https://thespattt.itch.io/amazing">A-Maze-Ing<a>, Orbit Solar and more :D
+- 📈 Built <a href="https://thespattt.itch.io/amazing" target="_blank">A-Maze-Ing<a>, Orbit Solar and more :D
 
 - ❤️ I love writing lines in many languages, and building imagin new games/ideas
 
-- 💬 Do not hesitate to ask me something <a href="https://github.com/SuperSpatule">[here]</a>
+- 💬 Do not hesitate to ask me something <a href="https://github.com/SuperSpatule" target="_blank">[here]</a>
 <br>
 <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
