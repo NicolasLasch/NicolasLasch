@@ -23,5 +23,7 @@ I'm a self-taught passionate Web | Game developer from Belgium !
 Learning
 <br>
 <br>
+<code><img height="50" alt="Flask" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsuporte.alclaudius.com.br%2Fstatic%2Fimg%2Flogo%2Fflask-logo.png&f=1&nofb=1&ipt=a4f9adf91e63ec7162d948ec880164a07cbbfcdb682b116fc8563a17d8ef0ea5&ipo=images"></code>
 <code><img height="50" alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-  <code><img height="50" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code><code><img height="50" alt="unity" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_ZRhheVA2mqQ%2FS7Jbf1MKSmI%2FAAAAAAAAABA%2FVMDM5KRfr7E%2Fs1600%2FunityLogo.png&f=1&nofb=1&ipt=4cedecb33fecd36206a956aadca3e55cf26cf414a435acb716466004455ec9d7&ipo=images"></code>
+  <code><img height="50" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+  <code><img height="50" alt="unity" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_ZRhheVA2mqQ%2FS7Jbf1MKSmI%2FAAAAAAAAABA%2FVMDM5KRfr7E%2Fs1600%2FunityLogo.png&f=1&nofb=1&ipt=4cedecb33fecd36206a956aadca3e55cf26cf414a435acb716466004455ec9d7&ipo=images"></code>
