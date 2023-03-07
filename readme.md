@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Nicolas Lasch AKA TheSpattt<h2>
+<h2 align="center">Hello, I'm Nicolas Lasch<h2>
 
 <br>
 
