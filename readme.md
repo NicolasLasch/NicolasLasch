@@ -8,7 +8,7 @@ I'm a self-taught passionate Web | Game developer from Belgium !
 
 - 💼 Studying at UCL in Belgium (Bachelor CS)
 
-- 📈 Built <a href="https://thespattt.itch.io/amazing" target="_blank">A-Maze-Ing<a>, Orbit Solar and more :D
+- 📈 Built <a href="https://thespattt.itch.io/amazing" target="_blank">A-Maze-Ing<a>, <a href="https://thespattt.itch.io/amazing" target="_blank">Orbit Solar</a> and more :D
 
 - ❤️ I love writing lines in many languages, and build or imagin new games/ideas
 
