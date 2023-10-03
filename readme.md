@@ -14,16 +14,13 @@ I'm a self-taught passionate Web | Game developer from Belgium !
 
 - 💬 Do not hesitate to ask me something <a href="https://github.com/SuperSpatule" target="_blank">[here]</a>
 <br>
-<code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" alt="GM" src="https://yasanacademy.ir/wp-content/uploads/2020/01/gamemaker.png"></code>
-<code><img height="50" alt="LC" src="https://dl2.macupdate.com/images/icons256/7149.png?d=1500329343"></code>
+<code><img height="50" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <br>
 <br>
-Learning
++-
 <br>
 <br>
-<code><img height="50" alt="Flask" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsuporte.alclaudius.com.br%2Fstatic%2Fimg%2Flogo%2Fflask-logo.png&f=1&nofb=1&ipt=a4f9adf91e63ec7162d948ec880164a07cbbfcdb682b116fc8563a17d8ef0ea5&ipo=images"></code>
 <code><img height="50" alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-  <code><img height="50" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-  <code><img height="50" alt="unity" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_ZRhheVA2mqQ%2FS7Jbf1MKSmI%2FAAAAAAAAABA%2FVMDM5KRfr7E%2Fs1600%2FunityLogo.png&f=1&nofb=1&ipt=4cedecb33fecd36206a956aadca3e55cf26cf414a435acb716466004455ec9d7&ipo=images"></code>
