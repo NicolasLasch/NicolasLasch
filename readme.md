@@ -6,7 +6,7 @@ I'm a self-taught passionate Backend developer from Belgium !
 
 **→ About me**
 
-- 💼 Studying at UCL in Belgium (2nd year Bachelor CS)
+- 💼 Studying at UCL in Belgium (3rd year Bachelor CS)
 
 - ❤️ I love writing lines in many languages, and build or imagin new games/ideas
 
