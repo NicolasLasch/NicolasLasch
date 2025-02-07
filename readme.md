@@ -10,14 +10,14 @@ I'm a self-taught passionate Backend developer from Belgium !
 
 - ❤️ I love writing lines in many languages, and build or imagin new games/ideas
 
-- 💬 Do not hesitate to ask me something <a href="https://github.com/SuperSpatule" target="_blank">[here]</a>
+- 💬 Do not hesitate to ask me something <a href="https://github.com/NicolasLasch" target="_blank">[here]</a>
 
 <br>
 <code><img height="50" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="50" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="50" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <br>
 <br>
 -=-=-=-=-=-=-=-=-=-=-
