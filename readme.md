@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 Highlight Projects
+## 🌟 Highlight _(Public)_ Projects
 
 ### ✂️ Character-CLIP
 > 🎥 Python tool using YOLOv8 + CLIP to detect and extract specific characters clips from videos  
