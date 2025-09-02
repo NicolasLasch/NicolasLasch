@@ -1,6 +1,6 @@
 <div align="center">
   
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=300&section=header&text=Nicolas%20Lasch&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20•%20Creative%20Developer%20•%20Design%20Thinker&descAlignY=65&descSize=20)
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=300&section=header&text=Nicolas%20Lasch&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=AI%20•%20Creativity%20•%20Design&descAlignY=65&descSize=20)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Beautiful+Interfaces;3rd+Year+CS+%40+UCLouvain+(EPL);" alt="Typing SVG" />
