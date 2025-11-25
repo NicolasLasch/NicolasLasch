@@ -4,15 +4,19 @@
 ### MASTER IN DESIGN AND ARTIFICIAL INTELLIGENCE @ SUTD
 
 <p align="center">
+  
   <a href="https://github.com/NicolasLasch">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/nicolas-lasch">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
+  
   <a href="mailto:nicolas.lasch@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </p>
 
 </div>
@@ -38,8 +42,9 @@
 > * Designed and implemented **30+ unique character roles** with specific abilities and duo mechanics.
 > * Developed **14 fully-implemented mini-games** (Spleef, Chess, Memory, etc.).
 > * Engineered advanced game phases, including dynamic world management and complex **faction/race systems**.
-
-<img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
+<a href="https://youtu.be/dQw4w9WgXcQ">
+  <img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
+</a>
 
 ---
 
@@ -51,8 +56,9 @@
 > * Engineered a cloud-based dynamic scoring engine with multi-room support.
 > * Achieved **Apache optimization** scaling the system from 20 to **150+ concurrent users** in one week.
 > * Maintained **zero downtime** during the live event.
-
-<img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
+<a href="https://youtu.be/dQw4w9WgXcQ">
+  <img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
+</a>
 
 ---
 
