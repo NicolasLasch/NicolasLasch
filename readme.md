@@ -42,8 +42,8 @@
 > * Designed and implemented **30+ unique character roles** with specific abilities and duo mechanics.
 > * Developed **14 fully-implemented mini-games** (Spleef, Chess, Memory, etc.).
 > * Engineered advanced game phases, including dynamic world management and complex **faction/race systems**.
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
+<a href="https://github.com/NicolasLasch/NGNLUHC">
+   <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
