@@ -1,88 +1,82 @@
-<div align="center">
+```markdown
+```java
+package com.github.nicolaslasch;
 
-# NICOLAS LASCH
-### MASTER IN DESIGN AND ARTIFICIAL INTELLIGENCE @ SUTD
+import ai.research.SUTD;
+import software.engineering.DeltaElectronics;
 
-<p align="center">
-  
-  <a href="https://github.com/NicolasLasch">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nicolas-lasch">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  
-  <a href="mailto:nicolas.lasch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-</p>
+/**
+ * 👨‍💻 Nicolas Lasch (@__Spat__)
+ * Software Engineer & AI Researcher.
+ * 
+ * Bridging the gap between low-level backend architecture, 
+ * machine learning, and interactive game environments.
+ */
+public class Profile extends Developer implements MasterDesignAI {
 
-</div>
+    public final String location = "Singapore";
+    public final String education = "Master in Design and Artificial Intelligence @ SUTD";
+    
+    public String[] getCoreStack() {
+        return new String[] {"Java", "Python", "TypeScript", "C#"};
+    }
 
----
+    public static void main(String[] args) {
+        System.out.println("Initiating portfolio deployment...");
+        new Profile().runTerminal();
+    }
+}
 
-## ⚡ CORE COMPUTER SCIENCE FOCUS
+```
 
-| Area | Key Competencies |
-| :--- | :--- |
-| **Artificial Intelligence (AI)** | Neural Networks, Computer Vision, Machine Learning Engineering |
-| **Software Engineering** | Systems Architecture, Backend Development, API Design, Scalability |
-| **User Experience (UX)** | UI/UX Design, Interactive Systems, Human-Computer Interaction |
+```bash
+nicolas@macbook-pro:~$ javac Profile.java
+nicolas@macbook-pro:~$ java Profile
+[System] Initiating portfolio deployment...
+[System] ---------------------------------------------------------
+[System] > ./fetch_modules.sh --category "ARTIFICIAL_INTELLIGENCE"
 
----
+```
 
-## 🚀 SELECTED TECHNICAL PROJECTS
+[+] 🧠 **[Bergen_Bike_Analysis](https://www.google.com/search?q=https://github.com/NicolasLasch/Bergen_Bike_Analysis)**
+└── Production-ready ML forecasting bike demand using historical/weather data (Jupyter/ML)
 
-### 🎮 **No Game No Life UHC** | _Complex Minecraft Game Mode_
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=white" /> <img src="https://img.shields.io/badge/Tech-Java%20•%20Spigot%20•%20Bukkit-000000?style=flat-square&labelColor=000000&color=white" />
+[+] 🎬 **[Character-Clips](https://www.google.com/search?q=https://github.com/NicolasLasch/Character-Clips)**
+└── Automated system detecting people in YouTube videos to generate clips (Python/YOLOv8)
 
-> **A highly complex, custom Minecraft UHC plugin in Java, inspired by the anime NGNL.**
-> * Designed and implemented **30+ unique character roles** with specific abilities and duo mechanics.
-> * Developed **14 fully-implemented mini-games** (Spleef, Chess, Memory, etc.).
-> * Engineered advanced game phases, including dynamic world management and complex **faction/race systems**.
-<a href="https://github.com/NicolasLasch/NGNLUHC">
-   <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[+] 🎵 **[GenAI---Music-in-video](https://www.google.com/search?q=https://github.com/NicolasLasch/GenAI---Music-in-video)**
+└── Generative AI research and implementation (Python)
 
----
+[+] 🤖 **[Projet2_IA](https://github.com/NicolasLasch/Projet2_IA)**
+└── Academic Artificial Intelligence project (Python)
 
-### 💼 **Belgian Sustainability Business Game** | _IT Manager_
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-000000?style=flat-square&labelColor=000000&color=white" /> <img src="https://img.shields.io/badge/Scale-150+%20Users-000000?style=flat-square&labelColor=000000&color=white" /> <img src="https://img.shields.io/badge/Tech-Flask%20•%20JS%20•%20Tailwind-000000?style=flat-square&labelColor=000000&color=white" />
+```bash
+[System] > ./fetch_modules.sh --category "MINECRAFT_ECOSYSTEM"
 
-> **Full-stack platform built as sole IT Manager to support 150+ participants.**
-> * Implemented **10,000+ lines of code** (Flask backend / JS/Tailwind frontend).
-> * Engineered a cloud-based dynamic scoring engine with multi-room support.
-> * Achieved **Apache optimization** scaling the system from 20 to **150+ concurrent users** in one week.
-> * Maintained **zero downtime** during the live event.
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img src="https://img.shields.io/badge/Private%20Project-000000?style=for-the-badge&color=white&labelColor=000000" />
-</a>
+```
 
----
+[+] 🌌 **[Karmine-SMP-Mod](https://github.com/NicolasLasch/Karmine-SMP-Mod)**
+└── Core server infrastructure mod customized for KCSMP lore, custom dimensions, and social mechanics (Java/Forge)
 
-### 🎬 **Character-CLIP** | _Advanced Video Detection_
-<img src="https://img.shields.io/badge/STATUS-COMPLETE-000000?style=flat-square&labelColor=000000&color=white" /> <img src="https://img.shields.io/badge/AI-Computer%20Vision-000000?style=flat-square&labelColor=000000&color=white" /> <img src="https://img.shields.io/badge/Tech-YOLOv8%20•%20CLIP%20•%20Python-000000?style=flat-square&labelColor=000000&color=white" />
+[+] ⚔️ **[Soulslike-Weaponry-Only-Bosses](https://www.google.com/search?q=https://github.com/NicolasLasch/Soulslike-Weaponry-1.21.11-Only-Bosses)**
+└── High-difficulty PvE expansion adding legendary weapons and boss mechanics (Java)
 
-> **Python tool for automated detection and extraction of specific character clips from videos.**
-> * Leverages cutting-edge computer vision models: **YOLOv8** for object detection and **CLIP** for fine-grained character identification.
-> * Built for efficient video processing and AI model training workflows.
+[+] 🎮 **[NGNLUHC](https://www.google.com/search?q=https://github.com/NicolasLasch/NGNLUHC)**
+└── Custom "No Game No Life" UHC game mode architecture and system logic (Java)
 
-<a href="https://github.com/NicolasLasch/Character-Clips">
-  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[+] 💰 **[FoliaMarket](https://www.google.com/search?q=https://github.com/NicolasLasch/FoliaMarket)** & **[UserShops](https://www.google.com/search?q=https://github.com/NicolasLasch/UserShops)**
+└── High-performance server economy and player-trading plugins (Java)
 
----
+```bash
+[System] > ./fetch_modules.sh --category "HACKATHONS"
 
-## 💻 TECHNICAL PROFICIENCY
+```
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, C++, Kotlin |
-| **AI/ML Frameworks** | TensorFlow, PyTorch, scikit-learn, YOLO, Hugging Face |
-| **Web/Backend** | Flask, Docker, Apache |
-| **Tools/Version Control** | Git, Google Colab |
-| **Design/UX** | Figma, Adobe Creative Suite |
+[+] 🏆 **[Odoo Hackathon v4.2 (Macos-Linux)](https://github.com/Odoo-Hackathons-Macos-Linux/hackathon-4.2)**
+└── Intensive collaborative development and system engineering under time constraints.
 
----
+```bash
+[System] Process finished with exit code 0.
+nicolas@macbook-pro:~$ █
+
+```
