@@ -1,4 +1,3 @@
-```markdown
 ```java
 package com.github.nicolaslasch;
 
