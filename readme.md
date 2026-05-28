@@ -57,8 +57,8 @@ nicolas@macbook-pro:~$ java Profile
 [+] 🌌 **[Karmine-SMP-Mod](https://github.com/NicolasLasch/Karmine-SMP-Mod)**
 └── Core server infrastructure mod customized for KCSMP lore, custom dimensions, and social mechanics (Java/Forge)
 
-[+] ⚔️ **[Soulslike-Weaponry-Only-Bosses](https://www.google.com/search?q=https://github.com/NicolasLasch/Soulslike-Weaponry-1.21.11-Only-Bosses)**
-└── High-difficulty PvE expansion adding legendary weapons and boss mechanics (Java)
+[+] ⚔️ **[Farkle-Dice](https://github.com/NicolasLasch/Farkle-Dice-1.21.11)**
+└── Kingdom come delivrance inspired dice game to have fun against minecraft villagers or players (basic Server/Client side mod)
 
 [+] 🎮 **[NGNLUHC](https://www.google.com/search?q=https://github.com/NicolasLasch/NGNLUHC)**
 └── Custom "No Game No Life" UHC game mode architecture and system logic (Java)
