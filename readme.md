@@ -1,8 +1,8 @@
 ```java
 package com.github.nicolaslasch;
 
-import ai.research.SUTD;
-import software.engineering.DeltaElectronics;
+import ai.master.SUTD;
+import ai.robotic.DeltaElectronics;
 
 /**
  * 👨‍💻 Nicolas Lasch (@__Spat__)
