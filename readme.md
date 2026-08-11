@@ -37,13 +37,13 @@ nicolas@macbook-pro:~$ java Profile
 
 ```
 
-[+] 🧠 **[Bergen_Bike_Analysis](https://www.google.com/search?q=https://github.com/NicolasLasch/Bergen_Bike_Analysis)**
+[+] 🧠 **[Bergen_Bike_Analysis](https://github.com/NicolasLasch/Bergen_Bike_Analysis)**
 └── Production-ready ML forecasting bike demand using historical/weather data (Jupyter/ML)
 
-[+] 🎬 **[Character-Clips](https://www.google.com/search?q=https://github.com/NicolasLasch/Character-Clips)**
+[+] 🎬 **[Character-Clips](https://github.com/NicolasLasch/Character-Clips)**
 └── Automated system detecting people in YouTube videos to generate clips (Python/YOLOv8)
 
-[+] 🎵 **[GenAI---Music-in-video](https://www.google.com/search?q=https://github.com/NicolasLasch/GenAI---Music-in-video)**
+[+] 🎵 **[GenAI---Music-in-video](https://github.com/NicolasLasch/GenAI---Music-in-video)**
 └── Generative AI research and implementation (Python)
 
 [+] 🤖 **[Projet2_IA](https://github.com/NicolasLasch/Projet2_IA)**
@@ -63,7 +63,7 @@ nicolas@macbook-pro:~$ java Profile
 [+] 🎮 **[NGNLUHC](https://github.com/NicolasLasch/NGNLUHC)**
 └── Custom "No Game No Life" UHC game mode architecture and system logic (Java)
 
-[+] 💰 **[FoliaMarket](https://www.google.com/search?q=https://github.com/NicolasLasch/FoliaMarket)** & **[UserShops](https://www.google.com/search?q=https://github.com/NicolasLasch/UserShops)**
+[+] 💰 **[FoliaMarket](https://github.com/NicolasLasch/FoliaMarket)** & **[UserShops](https://github.com/NicolasLasch/UserShops)**
 └── High-performance server economy and player-trading plugins (Java)
 
 ```bash
