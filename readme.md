@@ -60,7 +60,7 @@ nicolas@macbook-pro:~$ java Profile
 [+] ⚔️ **[Farkle-Dice](https://github.com/NicolasLasch/Farkle-Dice-1.21.11)**
 └── Kingdom come delivrance inspired dice game to have fun against minecraft villagers or players (basic Server/Client side mod)
 
-[+] 🎮 **[NGNLUHC](https://www.google.com/search?q=https://github.com/NicolasLasch/NGNLUHC)**
+[+] 🎮 **[NGNLUHC](https://github.com/NicolasLasch/NGNLUHC)**
 └── Custom "No Game No Life" UHC game mode architecture and system logic (Java)
 
 [+] 💰 **[FoliaMarket](https://www.google.com/search?q=https://github.com/NicolasLasch/FoliaMarket)** & **[UserShops](https://www.google.com/search?q=https://github.com/NicolasLasch/UserShops)**
