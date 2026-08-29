@@ -13,7 +13,7 @@ import ai.robotic.DeltaElectronics;
  */
 public class Profile extends Developer implements MasterDesignAI {
 
-    public final String location = "Singapore";
+    public final String location = "Belgium";
     public final String education = "Master in Design and Artificial Intelligence @ SUTD";
     
     public String[] getCoreStack() {
