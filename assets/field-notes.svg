@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img"><title>Field notes — Nicolas Lasch, Belgium, SUTD graduate and engineering toolkit</title>
+<rect x="0" y="0" width="1280" height="260" fill="#171817" opacity="1"/>
+<path d="M24 65V24H65 M1215 24H1256V65 M24 195V236H65 M1215 236H1256V195" fill="none" stroke="#41423d" stroke-width="1" opacity="1"/>
+<rect x="54" y="46" width="9" height="9" fill="#dc8b6d" opacity="1"/>
+<text x="77" y="56" fill="#c6c8bb" font-family="monospace" font-size="14" letter-spacing="1.3">FIELD NOTES / THE PERSON BEHIND THE PROJECTS</text>
+<path d="M430 86V217" fill="none" stroke="#414b3b" stroke-width="1" opacity="1"/>
+<path d="M840 86V217" fill="none" stroke="#414b3b" stroke-width="1" opacity="1"/>
+<text x="55" y="102" fill="#dc8b6d" font-family="monospace" font-size="13" letter-spacing="1">01 / BACKGROUND</text>
+<text x="55" y="144" fill="#eae5da" font-family="Georgia, serif" font-size="34">Belgium.</text>
+<text x="55" y="181" fill="#aeb3a4" font-family="monospace" font-size="18">SUTD Master's graduate</text>
+<text x="55" y="207" fill="#aeb3a4" font-family="monospace" font-size="14">Design &amp; Artificial Intelligence</text>
+<text x="463" y="102" fill="#dc8b6d" font-family="monospace" font-size="13" letter-spacing="1">02 / PRACTICE</text>
+<text x="463" y="144" fill="#eae5da" font-family="Georgia, serif" font-size="32">Build. Test. Refine.</text>
+<text x="463" y="181" fill="#aeb3a4" font-family="monospace" font-size="17">Software / AI / interaction</text>
+<text x="463" y="207" fill="#aeb3a4" font-family="monospace" font-size="14">From an idea to a usable system.</text>
+<text x="874" y="102" fill="#dc8b6d" font-family="monospace" font-size="13" letter-spacing="1">03 / TOOLKIT</text>
+<text x="874" y="144" fill="#eae5da" font-family="Georgia, serif" font-size="32">Stay curious.</text>
+<text x="874" y="181" fill="#aeb3a4" font-family="monospace" font-size="17">Java / Python / Rust</text>
+<text x="874" y="207" fill="#aeb3a4" font-family="monospace" font-size="17">TypeScript / C#</text>
+<rect x="1203" y="200" width="7" height="18" fill="#dc8b6d" opacity="0.4"/>
+</svg>
