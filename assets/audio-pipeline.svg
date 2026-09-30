@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img">
+<title>Generative Audio — source-based pipeline from video frames to planned, generated and scored audio</title>
+<rect width="800" height="500" rx="12" fill="#171817"/>
+<text x="36" y="43" font-family="monospace" font-size="14" fill="#dc8b6d">GENERATIVE AUDIO / PIPELINE PREVIEW</text>
+<text x="36" y="105" font-family="Georgia,serif" font-size="38" fill="#eae5da">Give silent scenes a voice.</text>
+<text x="36" y="139" font-family="monospace" font-size="14" fill="#aeb5a6">Visual context becomes a plan for sound effects.</text>
+<rect x="36" y="187" width="344" height="101" rx="4" fill="#232822" stroke="#525d4f"/>
+<text x="54" y="211" font-family="monospace" font-size="12" fill="#dc8b6d">01 / PERCEIVE</text>
+<text x="54" y="240" font-family="monospace" font-size="19" fill="#eae5da">Video keyframes</text>
+<text x="54" y="266" font-family="monospace" font-size="12" fill="#aeb5a6">Vision-language model</text>
+<rect x="420" y="187" width="344" height="101" rx="4" fill="#232822" stroke="#525d4f"/>
+<text x="438" y="211" font-family="monospace" font-size="12" fill="#dc8b6d">02 / PLAN</text>
+<text x="438" y="240" font-family="monospace" font-size="19" fill="#eae5da">Acoustic events</text>
+<text x="438" y="266" font-family="monospace" font-size="12" fill="#aeb5a6">LLM audio planning</text>
+<rect x="420" y="311" width="344" height="101" rx="4" fill="#232822" stroke="#525d4f"/>
+<text x="438" y="335" font-family="monospace" font-size="12" fill="#dc8b6d">03 / GENERATE</text>
+<text x="438" y="364" font-family="monospace" font-size="19" fill="#eae5da">Sound effects</text>
+<text x="438" y="390" font-family="monospace" font-size="12" fill="#aeb5a6">AudioLDM2</text>
+<rect x="36" y="311" width="344" height="101" rx="4" fill="#232822" stroke="#525d4f"/>
+<text x="54" y="335" font-family="monospace" font-size="12" fill="#dc8b6d">04 / EVALUATE</text>
+<text x="54" y="364" font-family="monospace" font-size="19" fill="#eae5da">Text-audio alignment</text>
+<text x="54" y="390" font-family="monospace" font-size="12" fill="#aeb5a6">CLAP scoring</text>
+<path d="M380 237H420 M592 288V311 M420 361H380" stroke="#dc8b6d" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="36" y="463" font-family="monospace" font-size="12" fill="#9ba792">PYTHON  /  FASTAPI  /  EXPERIMENTAL PIPELINE</text>
+</svg>
